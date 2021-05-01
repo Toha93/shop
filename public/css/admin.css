@@ -1,0 +1,107 @@
+.divadm {
+    width: 99%;
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #718096;
+}
+
+form{
+    padding-left: 20px ;
+}
+
+table
+{
+    width: 90%;
+    margin-left: 20px;
+}
+
+.news {
+    border: 1px solid black;
+}
+
+td, th{
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.newsid{
+    width: 7%;
+}
+
+.newsdes{
+    width: 79%;
+}
+
+.newsedit{
+    width: 7%;
+}
+
+.newsedel{
+    width: 7%;
+}
+
+.addProgram{
+    background-color: #A9A9A9;
+}
+
+.programSection{
+    border: black 2px solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.programDetail{
+    border: black 1px dotted;
+    margin: 10px;
+    padding: 10px;
+    background-color: #a0aec0;
+}
+
+.submitSection{
+    background-color: #718096;
+    border: black solid 1px;
+    margin: 10px;
+}
+
+.submitSubSection{
+    background-color: #718096;
+    border: black solid 1px;
+    width: 100px;
+}
+
+.divSubSection{
+    text-align: center;
+}
+
+.inputText{
+    width: 90%;
+}
+
+.textarea{
+    width: 90%;
+}
+
+.mainAddCourse{
+    background-color: #DCDCDC;
+    text-align: center;
+}
+
+.trfound{
+    height: 100px;
+}
+
+.addsub{
+    width: 150px;
+    height: 60px;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: #757575;
+    border-radius: 10%;
+}
+
